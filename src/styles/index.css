@@ -1,0 +1,24 @@
+/**
+  * Product: react-tailwind
+  * Description: React Tailwind - Sample Example
+  * Author: Davi Brancol
+  * Author URL: https://github.com/DaviBrancol
+  * License: ICS
+  */
+
+/*----------- Indexes -----------*/
+
+/**
+ * Tailwind
+ */
+
+/*------------------------------------
+  Tailwind
+------------------------------------*/
+
+/* purgecss start ignore */
+@import "tailwindcss/base";
+/* purgecss end ignore */
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";

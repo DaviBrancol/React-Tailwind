@@ -1,0 +1,34 @@
+/**
+  * Product: react-tailwind
+  * Description: React Tailwind - Sample Example
+  * Author: Davi Brancol
+  * Author URL: https://github.com/DaviBrancol
+  * License: ICS
+  */
+
+/*----------- Indexes -----------*/
+
+/**
+ * General Code
+ */
+
+/*------------------------------------
+  General Code
+------------------------------------*/
+
+* {
+  outline: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
