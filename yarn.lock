@@ -1107,6 +1107,15 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@brancol/react-snackbar@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@brancol/react-snackbar/-/react-snackbar-0.0.1.tgz#e11f86ba1444d58f7f39e55b2ab66d5245dac1e0"
+  integrity sha512-e3xuRfVU1qiTki7kmV3ghVF6DEQbZ0KC7iiyWdamBVLaNL8P4HCZnGRLYJL7ItaPAOniT2xvt2esq8gQJTRD8A==
+  dependencies:
+    classnames "^2.2.6"
+    react "^16.6.0"
+    react-dom "^16.6.0"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
@@ -8691,7 +8700,7 @@ react-dev-utils@^10.2.1:
     strip-ansi "6.0.0"
     text-table "0.2.0"
 
-react-dom@^16.13.1:
+react-dom@^16.13.1, react-dom@^16.6.0:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.13.1.tgz#c1bd37331a0486c078ee54c4740720993b2e0e7f"
   integrity sha512-81PIMmVLnCNLO/fFOQxdQkvEq/+Hfpv24XNJfpyZhTRfO0QcmQIF/PgCa1zCOj2w1hrn12MFLyaJ/G0+Mxtfag==
@@ -8819,7 +8828,7 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react@^16.13.1:
+react@^16.13.1, react@^16.6.0:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@brancol/react-snackbar": "^0.0.1",
     "axios": "^0.19.2",
     "classnames": "^2.2.6",
     "dotenv": "^8.2.0",
